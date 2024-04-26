@@ -1,4 +1,4 @@
 # HTML-Tutorials
 All About HTML.
 <br>
-Author - Narayan Polekar
+Author - Narayan Polekar (Developer)
